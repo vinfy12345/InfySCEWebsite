@@ -101,12 +101,12 @@ public class RegistrationSCE extends SuiteBaseSCE {
 			logger.info("Leaving the RegisterFirstpageConfirmPwdMismatch" );
 	}
 	
-	@Test
-	public void RegisterProcessComplete()
-	{
-		logger.info("Inside RegisterProcessComplete Test case.()");
-		init_Registration();
+	//@Test
+	//public void RegisterProcessComplete()
+	//{
+	//	logger.info("Inside RegisterProcessComplete Test case.()");
+	//	init_Registration();
 		
-	}
+	//}
 }
 
