@@ -27,6 +27,7 @@ public class TestCaseOnePageLoading {
 		driver=new FirefoxDriver();
 		driver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
 		driver.get(url);
+		 
 		
 		
 	}
